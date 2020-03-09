@@ -661,4 +661,4 @@ client.loop.create_task(scheduler_loop())
 
 
 
-client.run('Email', 'Password')
+client.run('discordbots@gmx.net', 'andreas1971')
